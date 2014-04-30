@@ -1,1 +1,1 @@
-This repo consists of project that are being utilize learn the Mootools API.
+This repo consists of projects that are being utilize to learn the Mootools API.
